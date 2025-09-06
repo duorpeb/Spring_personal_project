@@ -9,7 +9,7 @@
 >> <img width="1200" height="644" alt="image" src="https://github.com/user-attachments/assets/98f3b39b-8166-4faa-9333-0cf55619aa04" />
 <br><br>
 
-> 📗 메인 페이지 - 뉴스 기사 출력 시 이동 페이지 (해당 기사 원문으로 이동)
+> 📗 메인 페이지 - 뉴스 기사 클릭 시 이동 페이지 (해당 기사 원문으로 이동)
 >> <img width="1200" height="739" alt="image" src="https://github.com/user-attachments/assets/dbb6f092-096d-4f1d-ba2c-d6b7e5441ff4" />
 <br><br>
 
