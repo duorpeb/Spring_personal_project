@@ -51,7 +51,7 @@
 
 
 > # 💡 프로젝트 소개 
-🖥️ 
+🖥️ 뉴스 기사를 볼 수 있는 커뮤니티 사이트를 제작해보았습니다.
 
 <br><br><br><br><br>
 
@@ -73,9 +73,50 @@
 
 ### 🖥️ API 
 <img src="https://img.shields.io/badge/naver search API-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img src="https://img.shields.io/badge/기상청_단기예보_API-EB4D6F"> <img src="https://img.shields.io/badge/Geolocation_Web API-42A1F5"> 
+<br><br>
 
 ### 🖥️ 라이브러리 
+<img src="https://img.shields.io/badge/Spring%20Context-5.3.10-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20WebMVC-5.3.10-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20JDBC-5.3.10-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Test-5.3.10-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<br><br>
 
+<!-- AOP / Utility -->
+<img src="https://img.shields.io/badge/AspectJ-1.6.10-68217A?style=for-the-badge" /> <img src="https://img.shields.io/badge/JSR330%20(Inject)-1-616161?style=for-the-badge" />
+<br><br>
+
+<!-- Logging -->
+<img src="https://img.shields.io/badge/SLF4J%20API-2.0.7-F07F2E?style=for-the-badge" /> <img src="https://img.shields.io/badge/jcl--over--slf4j-2.0.7-FF8A65?style=for-the-badge" /> <img src="https://img.shields.io/badge/slf4j--log4j12-2.0.7-FF7043?style=for-the-badge" /> <img src="https://img.shields.io/badge/Logback%20Classic-1.3.14-F05A28?style=for-the-badge" /> <img src="https://img.shields.io/badge/Logback%20Core-1.3.14-F05A28?style=for-the-badge" /> <img src="https://img.shields.io/badge/log4jdbc-1.16-3F51B5?style=for-the-badge" />
+<br><br>
+
+<!-- Servlet/JSP/JSTL -->
+<img src="https://img.shields.io/badge/Servlet%20API-4.0.1-455A64?style=for-the-badge" /> <img src="https://img.shields.io/badge/JSP%20API-2.1-607D8B?style=for-the-badge" /> <img src="https://img.shields.io/badge/JSTL-1.2-90A4AE?style=for-the-badge" />
+<br><br>
+
+<!-- DB / MyBatis / Pool -->
+<img src="https://img.shields.io/badge/MySQL%20Connector%20J-8.0.33-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MyBatis-3.5.10-B53B3B?style=for-the-badge" /> <img src="https://img.shields.io/badge/MyBatis%20Spring-2.0.6-B53B3B?style=for-the-badge" /> <img src="https://img.shields.io/badge/HikariCP-6.3.0-0B96D1?style=for-the-badge" />
+<br><br>
+
+<!-- JSON / XML -->
+<img src="https://img.shields.io/badge/Jackson%20Databind-2.14.2-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Jackson%20Dataformat%20XML-2.14.2-1E90FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Jackson%20Datatype%20JSR310-2.14.2-1E90FF?style=for-the-badge" />
+<br><br>
+
+<!-- File/Media -->
+<img src="https://img.shields.io/badge/Commons%20FileUpload-1.4-1B6593?style=for-the-badge" /> <img src="https://img.shields.io/badge/Commons%20IO-2.11.0-1B6593?style=for-the-badge" /> <img src="https://img.shields.io/badge/Thumbnailator-0.4.17-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/Apache%20Tika%20Core-2.4.1-D22128?style=for-the-badge" /> <img src="https://img.shields.io/badge/Apache%20Tika%20Parsers-2.4.1-D22128?style=for-the-badge" />
+<br><br>
+
+<!-- Scheduling -->
+<img src="https://img.shields.io/badge/Quartz-2.3.2-2E86C1?style=for-the-badge" /> <img src="https://img.shields.io/badge/Quartz%20Jobs-2.3.2-2E86C1?style=for-the-badge" />
+<br><br>
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/Spring%20Security%20Core-5.5.3-20A76B?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security%20Web-5.5.3-20A76B?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security%20Config-5.5.3-20A76B?style=for-the-badge&logo=springsecurity&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Security%20Taglibs-5.5.3-20A76B?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<br><br>
+
+<!-- Test -->
+<img src="https://img.shields.io/badge/JUnit-4.7-25A162?style=for-the-badge" />
+<br><br>
+
+<!-- Dev Tools -->
+<img src="https://img.shields.io/badge/Lombok-1.18.38-C62828?style=for-the-badge" />
    
 <br><br><br><br><br>
 
