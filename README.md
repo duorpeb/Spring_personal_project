@@ -10,7 +10,7 @@
 <br><br>
 
 > 📗 메인 페이지 - 뉴스 기사 출력 시 이동 페이지 (해당 기사 원문으로 이동)
->> <img width="454" height="570" alt="image" src="https://github.com/user-attachments/assets/74f79eae-4e4d-4068-865a-38e2291b20c4" />
+>> <img width="1200" height="739" alt="image" src="https://github.com/user-attachments/assets/dbb6f092-096d-4f1d-ba2c-d6b7e5441ff4" />
 <br><br>
 
 > 📗 메인 페이지 - 이번주 날씨 정보 (현재 날짜부터 4일간의 날씨 정보) 출력
